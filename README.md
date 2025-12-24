@@ -56,8 +56,7 @@ This repository is intended to demonstrate thinking approach and system design, 
 
 **Author:-**
 Shahbaz Akhtar
-Candidate — **Data Champion / Business Growth Analyst
-**
+
 
 
 
